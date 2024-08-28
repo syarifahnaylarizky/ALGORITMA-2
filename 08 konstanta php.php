@@ -8,4 +8,3 @@ define('DB_NAME', 'belajar');
 // membuat konstanta dengan kata kunci const
 const API_KEY = "1234";
 ?>
-
