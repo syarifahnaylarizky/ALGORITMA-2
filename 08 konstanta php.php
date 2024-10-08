@@ -9,3 +9,4 @@ define('DB_NAME', 'belajar');
 const API_KEY = "1234";
 ?>
 
+s
